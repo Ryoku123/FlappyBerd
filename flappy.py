@@ -1,6 +1,5 @@
 from PyQt5 import QtWidgets, QtCore, QtGui,uic
-import ctypes, sys, random, flappyqrc, flappy_resources
-import importlib.resources as pkg_resources
+import ctypes, sys, random, flappyqrc
 
 UI_FILE = "flappy.ui"
 
